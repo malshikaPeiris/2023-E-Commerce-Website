@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+}
+.card-img-top{
+    width: 350px;
+    height: 500px;
+    object-fit: contain;
+}
+.admin_image{
+    width: 200px;
+    object-fit: contain;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+}
+
+  
